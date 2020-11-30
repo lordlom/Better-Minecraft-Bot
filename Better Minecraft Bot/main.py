@@ -46,4 +46,4 @@ async def on_ready():
     await client.change_presence(status=discord.Status.idle, activity=discord.Game('Minecraft Bot is my bad younger cousin'))
     print(f'logged in as {client.user.name} - {client.user.id}')
 
-client.run('NzU2MjM4NTUzNDI3NjA3NzEy.X2O8CQ.Xi-NWNmD65bkE1eq5ve0YF6B8T8')
+client.run('Token')

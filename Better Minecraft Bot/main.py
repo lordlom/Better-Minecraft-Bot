@@ -28,7 +28,7 @@ initial_extensions = [
                         'cogs.dice',
                         'cogs.help',
                         'cogs.spam',
-                        'cogs.hypixel'
+                        'cogs.coglist'
                      ]
 
 if __name__ == '__main__':
